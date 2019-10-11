@@ -1,1 +1,0 @@
-# DasproScanner-Lira
